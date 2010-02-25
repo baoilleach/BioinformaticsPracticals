@@ -6,9 +6,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   original/chapter1.rst
-   original/chapter2.rst
-   original/chapter3.rst
+   src/chapter1.rst
+   src/chapter2.rst
+   src/chapter3.rst
 
 Indices and tables
 ==================
