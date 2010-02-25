@@ -12,6 +12,7 @@ Contents:
    src/chapter4.rst
    src/chapter5.rst
    src/chapter6.rst
+   src/chapter7.rst
 
 Indices and tables
 ==================
