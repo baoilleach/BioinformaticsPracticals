@@ -426,7 +426,7 @@ data sets that come with it:
 ::
 
     > data(package="Biostrings")
-    Data sets in package �Biostrings�:
+    Data sets in package 'Biostring':
     BLOSUM100                                 Scoring matrices
     BLOSUM45                                  Scoring matrices
     BLOSUM50                                  Scoring matrices
@@ -743,6 +743,8 @@ that the sequences 'HEAGAWGHEE' and 'PAWHEAE' are not more similar
 than any two random sequences, and so they are probably not related
 sequences.
 
+.. include:: <isoamsr.txt>
+
 Another way of saying this is that the *P*-value that we calculated
 is high (0.289), and as a result we conclude that the alignment
 score for the sequences 'HEAGAWGHEE' and 'PAWHEAE' is not
@@ -750,7 +752,7 @@ score for the sequences 'HEAGAWGHEE' and 'PAWHEAE' is not
 calculate for an alignment of two sequences is >0.05, we conclude
 that the alignment score is not statistically significant, and that
 the sequences are probably not related. On the other hand, if the
-*P-*value is ≤0.05, we conclude that the alignment score is
+*P-*value is |les| 0.05, we conclude that the alignment score is
 statistically significant, and the sequences are very probably
 related (homologous).
 

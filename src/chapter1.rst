@@ -227,7 +227,7 @@ the word "deviation" in their description by typing:
 
     > help.search("deviation")
     Help files with alias or concept or title matching
-    �deviation� using fuzzy matching:
+    'deviation' using fuzzy matching:
     
     genefilter::rowSds
                         Row variance and standard deviation of

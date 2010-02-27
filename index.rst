@@ -4,7 +4,7 @@ Welcome to the System Biology Practicals!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    src/chapter1.rst
    src/chapter2.rst
@@ -15,6 +15,11 @@ Contents:
    src/chapter7.rst
    src/chapter8.rst
    src/chapter10.rst
+   src/sysbio/chapter1.rst
+   src/sysbio/chapter2.rst
+   src/sysbio/chapter3.rst
+   src/sysbio/chapter4.rst
+   src/sysbio/chapter5.rst
 
 Indices and tables
 ==================
