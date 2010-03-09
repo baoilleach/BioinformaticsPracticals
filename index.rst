@@ -20,6 +20,7 @@ Contents:
    src/sysbio/chapter3.rst
    src/sysbio/chapter4.rst
    src/sysbio/chapter5.rst
+   src/sysbio/chapter6.rst
 
 Indices and tables
 ==================

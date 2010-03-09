@@ -305,11 +305,13 @@ FASTA program for sequence alignment. It begins with a single-line
 description starting with a ">" character, followed by lines of
 sequences. Here is an example of a FASTA file:
 
-> A06852 183 residues
-MPRLFSYLLGVWLLLSQLPREIPGQSTNDFIKACGRELVRLWVEICGSVSWGRTALSLEE
-PQLETGPPAETMPSSITKDAEILKMMLEFVPNLPQELKATLSERQPSLRELQQSASKDSN
-LNFEEFKKIILNRQNEAEDKSLLELKNLGLDKHSRKKRLFRMTLSEKCCQVGCIRKDIAR
-LC
+::
+
+    > A06852 183 residues
+    MPRLFSYLLGVWLLLSQLPREIPGQSTNDFIKACGRELVRLWVEICGSVSWGRTALSLEE
+    PQLETGPPAETMPSSITKDAEILKMMLEFVPNLPQELKATLSERQPSLRELQQSASKDSN
+    LNFEEFKKIILNRQNEAEDKSLLELKNLGLDKHSRKKRLFRMTLSEKCCQVGCIRKDIAR
+    LC
 
 The NCBI sequence database
 --------------------------
@@ -693,7 +695,9 @@ Answer the following questions, using the R package. For each
 question, please record your answer, and what you typed into R to
 get this answer.
 
-Q1. What are the last twenty nucleotides of the Bacteriophage lambda genome sequence?Q2. What is the length in nucleotides of the genome sequence for the bacterium *Haemophilus influenzae* strain Rd KW20 (accession L42023)?
+Q1. What are the last twenty nucleotides of the Bacteriophage lambda genome sequence?
+
+Q2. What is the length in nucleotides of the genome sequence for the bacterium *Haemophilus influenzae* strain Rd KW20 (accession L42023)?
     Note: *Haemophilus influenzae* is a bacterium that is responsible
     for a wide range of clinical diseases in humans. The
     *Haemophilus influenzae* strain Rd KW20 genome was the first to
@@ -720,7 +724,9 @@ Q5. How many of each of the four nucleotides A, C, T and G are there in the comp
     C, T and G?
     Are the numbers of As, Cs, Ts, and Gs in the complementary sequence
     what you would expect?
-Q6. How many occurrences of the DNA words CC, CG and GC occur in the *Haemophilus influenzae* Rd KW20 genome sequence?Q7. How many occurrences of the DNA words CC, CG and GC occur in the (i) first 1000 and (ii) last 1000 nucleotides of the *Haemophilus influenzae* Rd KW20 genome sequence?
+Q6. How many occurrences of the DNA words CC, CG and GC occur in the *Haemophilus influenzae* Rd KW20 genome sequence?
+
+Q7. How many occurrences of the DNA words CC, CG and GC occur in the (i) first 1000 and (ii) last 1000 nucleotides of the *Haemophilus influenzae* Rd KW20 genome sequence?
     How can you check that the subsequence that you have looked at is
     1000 nucleotides long?
 
