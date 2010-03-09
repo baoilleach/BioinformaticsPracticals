@@ -752,7 +752,7 @@ score for the sequences 'HEAGAWGHEE' and 'PAWHEAE' is not
 calculate for an alignment of two sequences is >0.05, we conclude
 that the alignment score is not statistically significant, and that
 the sequences are probably not related. On the other hand, if the
-*P-*value is |les| 0.05, we conclude that the alignment score is
+*P*-value is |les| 0.05, we conclude that the alignment score is
 statistically significant, and the sequences are very probably
 related (homologous).
 

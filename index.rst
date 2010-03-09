@@ -14,6 +14,7 @@ Contents:
    src/chapter6.rst
    src/chapter7.rst
    src/chapter8.rst
+   src/chapter9.rst
    src/chapter10.rst
    src/sysbio/chapter1.rst
    src/sysbio/chapter2.rst
